@@ -1,0 +1,8 @@
+name = "solara"
+pages_build_output_dir = "."
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "solara-db"
+database_id = "3a6af007-b0e3-4de0-801b-7bcb9fa310f4"

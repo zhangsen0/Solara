@@ -1,0 +1,10 @@
+.github
+server
+Dockerfile
+docker-compose.yml
+docker-entrypoint.sh
+.dockerignore
+.gitignore
+Preview.gif
+README.md
+wrangler.toml
